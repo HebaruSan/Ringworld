@@ -12,7 +12,7 @@
     "kind":           "package",
     "release_status": "development",
     "resources": {
-        "homepage":   "<FORUM THREAD>",
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/167549-130-131-ringworld",
         "repository": "https://github.com/HebaruSan/Ringworld",
         "bugtracker": "https://github.com/HebaruSan/Ringworld/issues"
     },

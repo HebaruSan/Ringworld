@@ -1,0 +1,7 @@
+LOADINGTOOLTIPSPLUS
+{
+	Overwrite = false
+	ToolTip  = ringworld_loadingTip1
+	ToolTip2 = ringworld_loadingTip2
+	ToolTip3 = ringworld_loadingTip3
+}

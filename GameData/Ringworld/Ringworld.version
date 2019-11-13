@@ -1,6 +1,6 @@
 {
 	"NAME":      "Ringworld",
-	"URL":       "https://raw.githubusercontent.com/HebaruSan/Ringworld/master/Ringworld.version",
+	"URL":       "https://raw.githubusercontent.com/HebaruSan/Ringworld/master/GameData/Ringworld/Ringworld.version",
 	"DOWNLOAD":  "https://github.com/HebaruSan/Ringworld/releases",
 	"GITHUB": {
 		"USERNAME":          "HebaruSan",
@@ -17,10 +17,5 @@
 		"MAJOR": 1,
 		"MINOR": 3,
 		"PATCH": 0
-	},
-	"KSP_VERSION_MAX": {
-		"MAJOR": 1,
-		"MINOR": 3,
-		"PATCH": 8
 	}
 }
